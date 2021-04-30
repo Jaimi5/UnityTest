@@ -1,0 +1,12 @@
+D:\Projects\Learning\UnitTest\GreekService\bin\Debug\net5.0\GreekService.deps.json
+D:\Projects\Learning\UnitTest\GreekService\bin\Debug\net5.0\GreekService.dll
+D:\Projects\Learning\UnitTest\GreekService\bin\Debug\net5.0\ref\GreekService.dll
+D:\Projects\Learning\UnitTest\GreekService\bin\Debug\net5.0\GreekService.pdb
+D:\Projects\Learning\UnitTest\GreekService\obj\Debug\net5.0\GreekService.csprojAssemblyReference.cache
+D:\Projects\Learning\UnitTest\GreekService\obj\Debug\net5.0\GreekService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Learning\UnitTest\GreekService\obj\Debug\net5.0\GreekService.AssemblyInfoInputs.cache
+D:\Projects\Learning\UnitTest\GreekService\obj\Debug\net5.0\GreekService.AssemblyInfo.cs
+D:\Projects\Learning\UnitTest\GreekService\obj\Debug\net5.0\GreekService.csproj.CoreCompileInputs.cache
+D:\Projects\Learning\UnitTest\GreekService\obj\Debug\net5.0\GreekService.dll
+D:\Projects\Learning\UnitTest\GreekService\obj\Debug\net5.0\ref\GreekService.dll
+D:\Projects\Learning\UnitTest\GreekService\obj\Debug\net5.0\GreekService.pdb
